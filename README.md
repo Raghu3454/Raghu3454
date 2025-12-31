@@ -12,8 +12,9 @@
 - Git & GitHub
 
 ## Projects
-- Digital Alarm Clock (Python)
-- Internship Practice Projects
+-Yolo Based Object Detection
+-Sentiment Analysis Using CNN
+-Digital Alarm Clock (Python)
 
 ## Contact
 - GitHub: https://github.com/Raghu3454

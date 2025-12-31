@@ -1,6 +1,6 @@
 # Hi 👋 I'm Raghu
 
-🎓 BTech 3rd Year – Artificial Intelligence & Data Science  
+🎓 BTech – Artificial Intelligence & Data Science  
 💻 Python | Machine Learning | Data Analysis  
 🏢 Internship experience at GenzEducateWing  
 🚀 Actively looking for Internships & Fresher roles  

@@ -20,3 +20,5 @@
 
 ## Contact
 - GitHub: https://github.com/Raghu3454
+- LinkedIn: https://www.linkedin.com/in/regonda-raghavendra-601774239/
+- Instagram: https://www.instagram.com/raghu_6___/

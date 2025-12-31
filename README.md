@@ -1,3 +1,22 @@
+# Hi 👋 I'm Raghu
+
+🎓 BTech 3rd Year – Artificial Intelligence & Data Science  
+💻 Python | Machine Learning | Data Analysis  
+🏢 Internship experience at GwnzEducateWing  
+🚀 Actively looking for Internships & Fresher roles  
+
+## Skills
+- Python
+- Pandas
+- Machine Learning (Basics)
+- Git & GitHub
+
+## Projects
+- Digital Alarm Clock (Python)
+- Internship Practice Projects
+
+## Contact
+- GitHub: https://github.com/Raghu3454
 ## Hi there 👋
 
 <!--
